@@ -1,11 +1,15 @@
-
-.navbar {
+.navbar,
+.tab{
+  overflow: hidden;
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
 
-  .link {
-    display: block;
+  .item {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
     padding: $nav-link-pad-y $nav-link-pad-x;
     padding: var(--nav-link-pad-y, $nav-link-pad-y) var(--nav-link-pad-x, $nav-link-pad-x);
     font-size: $nav-link-font-size;
@@ -13,6 +17,11 @@
     font-weight: $nav-link-font-weight;
     color: $nav-link-color;
     text-decoration: if($nav-link-decoration == none, null, none);
+
+    &.vertical {
+      display: block;
+      width: 100%;
+    }
 
     &:hover,
     &:focus {
@@ -25,6 +34,22 @@
 
     &.disabled {
         color: $nav-link-disabled-color;
+    }
+  }
+}
+
+.tab{
+  .item{
+    padding: var(--tab-item-pad-y, $nav-link-pad-y) var(--tab-link-pad-x, $item-link-pad-x);
+  }
+
+  .tabcontent {
+    display: none;
+    padding: $tabcontent-pad-y $tabcontent-pad-x;
+    padding: var(--tabcontent-pad-y, $tabcontent-pad-y) var(--tabcontent-pad-x, $tabcontent-pad-x);
+    
+    &.active {
+      display: block;
     }
   }
 }
