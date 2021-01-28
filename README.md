@@ -130,10 +130,8 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/beautifycs
      <td><a href="https://twitter.com/HareLabs"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a></td>
   </tr>
   <tr>
-[![](https://img.shields.io/badge/Bitbucket-33ffff?style=for-the-badge&logo=bitbucket&logoColor=blue)](https://bitbucket.org/moonharelabs/)
-
-[![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab)](https://gitlab.com/moonharelabs/)
-
-[![](https://img.shields.io/badge/sourceforge-330F63?style=for-the-badge&logo=sourceforge)](https://sourceforge.net/projects/moonhare-css/)
-</tr>
+     <td><a href="https://bitbucket.org/moonharelabs/"><img src="https://img.shields.io/badge/Bitbucket-33ffff?style=for-the-badge&logo=bitbucket&logoColor=blue"></a></td>
+     <td><a href="https://gitlab.com/moonharelabs/"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab"></a></td>
+     <td><a href="https://sourceforge.net/projects/moonhare-css/"><img src="https://img.shields.io/badge/sourceforge-330F63?style=for-the-badge&logo=sourceforge"></a></td>
+  </tr>
 </table>
