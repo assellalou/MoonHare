@@ -125,13 +125,8 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/beautifycs
 
 <!-- COMMUNITY -->
 ## Community
-<table>
-  <tr>
-     <td><a href="https://twitter.com/HareLabs"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a></td>
-  </tr>
-  <tr>
-     <td><a href="https://bitbucket.org/moonharelabs/"><img src="https://img.shields.io/badge/Bitbucket-33ffff?style=for-the-badge&logo=bitbucket&logoColor=blue"></a></td>
-     <td><a href="https://gitlab.com/moonharelabs/"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab"></a></td>
-     <td><a href="https://sourceforge.net/projects/moonhare-css/"><img src="https://img.shields.io/badge/sourceforge-330F63?style=for-the-badge&logo=sourceforge"></a></td>
-  </tr>
-</table>
+
+<a target="blank" href="https://twitter.com/HareLabs"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a target="blank" href="https://bitbucket.org/moonharelabs/"><img src="https://img.shields.io/badge/Bitbucket-33ffff?style=for-the-badge&logo=bitbucket&logoColor=blue"></a>
+<a target="blank" href="https://gitlab.com/moonharelabs/"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab"></a>
+<a target="blank" href="https://sourceforge.net/projects/moonhare-css/"><img src="https://img.shields.io/badge/sourceforge-330F63?style=for-the-badge&logo=sourceforge"></a>
